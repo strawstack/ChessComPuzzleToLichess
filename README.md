@@ -18,11 +18,11 @@ https://caiorss.github.io/bookmarklet-maker/
 
 # Screenshots
 
-A Chess com puzzle.
+### A Chess com puzzle.
 ![](./one.PNG)
 
-The output link from this code. 
+### The output link from this code. 
 ![](./two.PNG)
 
-The result of navigating to the link
+### The result of navigating to the link
 ![](./three.PNG)
