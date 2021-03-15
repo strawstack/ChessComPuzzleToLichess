@@ -8,9 +8,9 @@ I wrote some JS code that reads the state of a chess com board by parsing the HT
 
 2. Drag the link into your bookmarks bar.
 
-3. When viewing a chess com puzzle click the bookmarklet.
+3. When viewing a chess com puzzle, click the bookmarklet.
 
-4. Obtain the Lichess FEN link by opening the Browser's console.
+4. Obtain the Lichess FEN link by opening the browser's console.
 
 
 # More Info about Bookmarklets
