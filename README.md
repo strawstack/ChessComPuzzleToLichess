@@ -4,7 +4,7 @@ I wrote some JS code that reads the state of a chess com board by parsing the HT
 
 # How to Use This Code
 
-1. Open [this Site](#)
+1. Open [this site](#)
 
 2. Drag the link into your bookmarks bar.
 
