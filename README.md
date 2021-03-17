@@ -16,6 +16,10 @@ I wrote some JS code that reads the state of a chess com board by parsing the HT
 
 https://caiorss.github.io/bookmarklet-maker/
 
+# View the Source Code
+
+The JS source code for this tool is available in `source.js`
+
 # Screenshots
 
 ### A Chess com puzzle.
