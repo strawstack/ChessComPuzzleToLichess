@@ -4,7 +4,7 @@ I wrote some JS code that reads the state of a chess com board by parsing the HT
 
 # How to Use This Code
 
-1. Open [this site](https://strawstack.github.io/ChessComPuzzleToLichess/).
+1. Open <a href="https://strawstack.github.io/ChessComPuzzleToLichess/" target="_blank">this site</a>.
 
 2. Drag the link into your bookmarks bar.
 
